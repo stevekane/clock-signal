@@ -1,0 +1,24 @@
+{
+  "name": "clock-signal",
+  "version": "1.0.0",
+  "description": "Simple signal encapsulating the passage of time",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekane/clock-signal.js.git"
+  },
+  "keywords": [
+    "clock",
+    "signal"
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevekane/clock-signal.js/issues"
+  },
+  "homepage": "https://github.com/stevekane/clock-signal.js#readme",
+  "devDependencies": {}
+}
